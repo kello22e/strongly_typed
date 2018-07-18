@@ -1,5 +1,6 @@
 require 'sinatra'
-
+require 'bundler'
+Bundler.require
 class App < Sinatra::Base
 
   get '/' do
