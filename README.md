@@ -1,1 +1,0 @@
-# strongly_typed
